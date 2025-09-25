@@ -9,6 +9,9 @@ public class Main {
 
         double firstNumber = Double.parseDouble(input);
 
+        System.out.println("Enter the second number:");
+        input = myScanner.nextLine();
+        double secondNumber = Double.parseDouble(input);
 
     }
 }
